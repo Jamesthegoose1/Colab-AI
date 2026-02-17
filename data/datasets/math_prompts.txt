@@ -1,0 +1,23 @@
+Q: What is 237 + 489?
+A: 726
+
+Q: Solve for x: 2x + 5 = 17
+A: x = 6
+
+Q: What is the derivative of x^2?
+A: 2x
+
+Q: Simplify: (3x + 5) - (2x - 7)
+A: x + 12
+
+Q: What is the integral of 3x dx?
+A: 3/2 x^2 + C
+
+Q: Convert 1500 meters to kilometers.
+A: 1.5 km
+
+Q: Solve for y: 3y - 9 = 0
+A: y = 3
+
+Q: Multiply: 45 * 12
+A: 540
