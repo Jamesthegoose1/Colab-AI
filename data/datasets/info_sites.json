@@ -12,6 +12,9 @@
         "https://www.geeksforgeeks.org/python-programming-examples/",
         "https://realpython.com/",
         "https://www.w3schools.com/"
-    ]
+    ],
+   "food_sites": [
+       "https://raw.githubusercontent.com/mneedham/bbcgoodfood/master/stream_all.json"
+   ]
 }
 
