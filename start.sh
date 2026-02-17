@@ -8,11 +8,12 @@ PORT=8000
 # ===== INSTALL DEPENDENCIES =====
 echo "Installing Python packages..."
 python3 -m pip install --upgrade pip
+sleep 5
 python3 -m pip install fastapi uvicorn nest-asyncio requests beautifulsoup4 ngrok
 
 # ===== CONFIGURE NGROK =====
 echo "Configuring ngrok..."
-ngrok config add-authtoken $NGROK_AUTH_TOKEN
+ngrok config add-authtoken add_your_auth_token_here
 
 # ===== CREATE FOLDERS =====
 echo "Creating data directories..."
