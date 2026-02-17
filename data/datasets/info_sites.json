@@ -1,1 +1,16 @@
+{
+    "math_sites": [
+        "https://artofproblemsolving.com/wiki/index.php?title=Category:Algebra",
+        "https://www.khanacademy.org/math/algebra"
+    ],
+    "science_sites": [
+        "https://en.wikipedia.org/wiki/Physics",
+        "https://en.wikipedia.org/wiki/Chemistry"
+    ],
+    "coding_sites": [
+        "https://www.geeksforgeeks.org/python-programming-examples/",
+        "https://realpython.com/",
+        "https://www.w3schools.com/"
+    ]
+}
 
